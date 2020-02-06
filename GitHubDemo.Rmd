@@ -1,0 +1,21 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+# Practice sending things to GitHub
+
+This is a test to see if I can send things from RStudio Cloud to GitHub on my own.
+
+```{r}
+# This code chunk has code in it
+
+a = 3
+b = 5
+c = 8
+
+d = a+b
+e = b+c
+```
+
+
